@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LatihanPolymorphism2
+{
+    internal class Mahasiswa
+    {
+        public string npm { get; set; }
+        public string nama { get; set; }
+        public string email { get; set; }
+
+    }
+}
